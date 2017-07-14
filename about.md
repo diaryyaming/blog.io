@@ -1,4 +1,4 @@
----
+z---
 layout: page
 title: "About"
 description: "学苟知本，六经皆我注脚 "
@@ -22,17 +22,6 @@ header-img: "img/green.jpg"
 - 「持续」并不是坚持，写就是最好的回报
 
 
-###关注：
-
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
-
-
-
 
 ###代表作：
 
@@ -54,9 +43,9 @@ header-img: "img/green.jpg"
 
 - [博客：www.zymer.cc](www.zymer.cc)
 
-- [微博@赵亚明明明](http://weibo.com/207775270)
+- [微博@赵亚明明明](http://weibo.com/u/5273122298)
 
--[bilibili:]
+-[bilibili:赵亚明明明](http://space.bilibili.com/21541127/#!/)
 
 
 
