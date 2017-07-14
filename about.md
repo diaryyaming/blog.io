@@ -7,7 +7,7 @@ header-img: "img/blue.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://wx2.sinaimg.cn/mw690/005KRtZEgy1fhjl6ym6m4j30hs0hsjrk.jpg" align="center"></p>
 </center>
 
 我是赵亚明，每天千字践行者，践行时间：2017年07月14日至2018年07月14日，感谢这段经历，让我成为了现在的我。
@@ -50,7 +50,7 @@ header-img: "img/blue.jpg"
 
 
 <center>
-    <p><img src="http://wx4.sinaimg.cn/mw690/005JpSnRly1fhj2yf3glqj30b40b40u4.jpg" align="center"></p>
+    <p><img src="http://wx1.sinaimg.cn/mw690/005KRtZEgy1fhjl857ud6j30e80e875j.jpg" align="center"></p>
 </center>
 
 
