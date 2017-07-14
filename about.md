@@ -1,4 +1,4 @@
-w---
+---
 layout: page
 title: "About"
 description: "学苟知本，六经皆我注脚 "
@@ -41,7 +41,7 @@ header-img: "img/blue.jpg"
 
 ###联系
 
-- [博客：www.zymer.cc](http://www.zymer.cc)
+- [博客：www.zymer.cc](http://zymer.cc/)
 
 - [微博@赵亚明明明](http://weibo.com/u/5273122298)
 
