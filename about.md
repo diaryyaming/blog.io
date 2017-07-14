@@ -34,7 +34,7 @@ header-img: "img/green.jpg"
 
 ###我的朋友们
 
-- [YiLee](http://yilee.me)
+- [Cnfeat](http://cnfeat.com)
 - [Caos](http://caos.me)
 - [BuzhiNote](http://BuzhiNote.com)
 - [Azeril](http://azeril.me)
