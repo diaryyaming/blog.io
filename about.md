@@ -50,7 +50,7 @@ header-img: "img/blue.jpg"
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="http://wx4.sinaimg.cn/mw690/005JpSnRly1fhj2yf3glqj30b40b40u4.jpg" align="center"></p>
 </center>
 
 
