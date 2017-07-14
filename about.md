@@ -1,4 +1,4 @@
-z---
+ z---
 layout: page
 title: "About"
 description: "学苟知本，六经皆我注脚 "
@@ -45,7 +45,7 @@ header-img: "img/green.jpg"
 
 - [微博@赵亚明明明](http://weibo.com/u/5273122298)
 
--[bilibili:赵亚明明明](http://space.bilibili.com/21541127/#!/)
+- [bilibili:赵亚明明明](http://space.bilibili.com/21541127/#!/)
 
 
 
