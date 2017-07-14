@@ -17,8 +17,7 @@ header-img: "img/green.jpg"
 ###坚信
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
+- 元认知乃- 学苟知本，六经皆我注脚 
 - 一切技能皆可习得，包括写作
 - 「持续」并不是坚持，写就是最好的回报
 
@@ -53,15 +52,12 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：www.zymer.cc.com](www.cnfeat.com)
+- [博客：www.zymer.cc](www.zymer.cc)
 
-- [微博@CnFeat](http://weibo.com/207775270)
+- [微博@赵亚明明明](http://weibo.com/207775270)
 
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
+-[bilibili:]
 
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
 
 
 <center>
