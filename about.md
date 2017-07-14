@@ -41,7 +41,7 @@ header-img: "img/blue.jpg"
 
 ###联系
 
-- [博客：www.zymer.cc](www.www.zymer.cc)
+- [博客：www.zymer.cc](http://www.zymer.cc)
 
 - [微博@赵亚明明明](http://weibo.com/u/5273122298)
 
