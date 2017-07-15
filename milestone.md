@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "AMWAY"
-description: "知之真切笃实处即是行，行之明觉精察处即是知 "
+description: "向你推荐一些有用的文章或链接"
 header-img: "img/zhihu.jpg"
 ---
 
