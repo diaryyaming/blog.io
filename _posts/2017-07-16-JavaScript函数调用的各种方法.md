@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: JavaScript函数调用的各种方法
@@ -45,6 +44,7 @@ JavaScript code
 >[/code]
 此时的运行结果是：
  2
+ 
  1
 
 在printValue()函数在执行时，this.value值为2，也就是说，this指向的是全局对象，而不是对象object。
