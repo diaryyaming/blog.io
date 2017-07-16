@@ -10,8 +10,11 @@ description: JavaScript
 #在JavaScript中一共有下面4种调用方式：
 
 ##(1) 基本函数调用
+
 ##(2)方法调用
+
 ##(3)构造器调用
+
 ##(4)通过call()和apply()进行调用
 
 ##1. 基本函数调用
@@ -21,8 +24,11 @@ description: JavaScript
 JavaScript code
 
 >1 function fn(o){
+
 >2      …… 
+
 >3   }
+
 >4   fn({x:1});
 
 ###在基本函数调用中，
@@ -31,16 +37,28 @@ JavaScript code
 ##（2）this被绑定到全局变量（直接调用一般指的是window）
 
 >[code=javascript]
+
+
 >  var object = {value:1};
+
 > var value = 2;
+
 > object.printProps = function(){
+
 >    var printValue = function(){
+
 >      console.log(this.value);
+
 >    };
+
 >   printValue();
+
 >   console.log(this.value);
+
 > }
+
 > object.printProps();
+
 >[/code]
 此时的运行结果是：
  2
