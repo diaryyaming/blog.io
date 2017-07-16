@@ -7,8 +7,9 @@ header-img: "img/zhihu.jpg"
 
 
 
-###代表作：
+###推荐：
 
+- [《万神纪【星尘原创曲】》](https://www.bilibili.com/video/av8506694/?from=search&seid=11861482307998495063)
 
 - [《【极乐净土】咬人猫/有咩酱/赤九玖》](http://www.bilibili.com/video/av6117110/)
 
