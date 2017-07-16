@@ -6,38 +6,15 @@ header-img: "img/green.jpg"
 ---
 
 
-<center>
-    <p><img src="http://wx2.sinaimg.cn/mw690/005PA203gy1fhjllce379j30u01hc4gm.jpg" align="center"></p>
-</center>
 
-我是赵亚明，每天千字践行者，践行时间：2017年07月14日至2018年07月14日，感谢这段经历，让我成为了现在的我。
-
-现在研习 **认知写作学** 。
-
-###坚信
-
-
-- 元认知乃- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
-
-
-
-###代表作：
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
+我是赵亚明，目前是一名考研狗。
 
 
 ###我的朋友们
 
+- [ycgambo の GitHub](http://www.notee.cc/)
 - [Cnfeat](http://cnfeat.com)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
+
 
 ###联系
 
