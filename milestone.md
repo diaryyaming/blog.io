@@ -6,22 +6,20 @@ header-img: "img/zhihu.jpg"
 ---
 
 
-<center>
-    <p><img src="http://wx2.sinaimg.cn/mw690/005PA203gy1fhl2jbw0b0j30k20k20vs.jpg" align="center"></p>
-</center>
-
 
 ###代表作：
 
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://www.jianshu.com/p/6f1404e0240d)
+- [《【极乐净土】咬人猫/有咩酱/赤九玖》](http://www.bilibili.com/video/av6117110/)
 
-- [《如何正确地练习写作》](http://www.jianshu.com/p/2621444b619d)
+- [《MATLAB对语音信号加随机噪声及去噪程序》](http://blog.sina.com.cn/s/blog_6cde146e0100o0rm.html)
 
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
+- [《如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程》](http://www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)
 
 
-
+<center>
+    <p><img src="http://wx2.sinaimg.cn/mw690/005PA203gy1fhl2jbw0b0j30k20k20vs.jpg" align="center"></p>
+</center>
 
 
 
