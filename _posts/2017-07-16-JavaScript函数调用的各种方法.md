@@ -60,7 +60,7 @@ description: JavaScript
 
 在printValue()函数在执行时，this.value值为2，也就是说，this指向的是全局对象，而不是对象object。
 
-##（3）返回值：函数的返回值成为调用表达式的值。
+## （3）返回值：函数的返回值成为调用表达式的值。
 I. 如果函数返回是解释器到达结尾，也就是没有执行到return XXX的语句。返回值为undefined。 
 II. 如果函数返回是因为接受器执行到return xxx语句， 返回return之后的值。 
 III. 如果return语句后没有值，即return，则返回undefined。
