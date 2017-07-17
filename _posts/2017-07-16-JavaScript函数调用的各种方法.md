@@ -10,27 +10,21 @@ description: JavaScript
 ##在JavaScript中一共有下面4种调用方式：
 
 ###(1) 基本函数调用
-
 ###(2)方法调用
-
-### (3)构造器调用
-
-## (4)通过call()和apply()进行调用
+###(3)构造器调用
+###(4)通过call()和apply()进行调用
 
 ## 1. 基本函数调用
 
 ### 普通函数调用模式，如：
 
-JavaScript code
+''' JavaScript code
 
->1 function fn(o){
-
->2      …… 
-
->3   }
-
->4   fn({x:1});
-
+function fn(o){
+      …… 
+   }
+   fn({x:1});
+'''
 ###在基本函数调用中，
 ##（1）每个参数作为实参传递给声明函数时定义的形参；
 
