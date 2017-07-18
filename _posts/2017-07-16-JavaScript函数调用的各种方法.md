@@ -18,7 +18,7 @@ description: JavaScript
 * [通过call()和apply()进行调用](#4.通过call()和apply()进行调用)
 
 1.基本函数调用  
-普通函数调用模式，如：
+#普通函数调用模式，如：
 
     JavaScript code
     
@@ -70,7 +70,7 @@ I. 如果函数返回是解释器到达结尾，也就是没有执行到return X
 II. 如果函数返回是因为接受器执行到return xxx语句， 返回return之后的值。 
 III. 如果return语句后没有值，即return，则返回undefined。
 
-2.方法调用
+# 2.方法调用
 
 当一个函数被保存为对象的一个属性时，称为方法。
 （1）参数和返回值的处理与函数调用一致；
