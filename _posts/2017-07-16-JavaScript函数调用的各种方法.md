@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: JavaScript函数调用的各种方法
@@ -17,7 +18,7 @@ description: JavaScript
 
 * [通过call()和apply()进行调用](#4.通过call()和apply()进行调用)
 
-1.基本函数调用
+1.基本函数调用  
 普通函数调用模式，如：
 
     JavaScript code
