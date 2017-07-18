@@ -7,7 +7,7 @@ tags: [JavaScript,函数,调用,函数调用]
 description: JavaScript
 ---
 
-## 在JavaScript中一共有下面4种调用方式：
+##[在JavaScript中一共有下面4种调用方式：](#此时的运行结果是)
 
 # (1)基本函数调用
 #### (2)方法调用
