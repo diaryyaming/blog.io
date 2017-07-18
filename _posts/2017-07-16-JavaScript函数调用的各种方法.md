@@ -32,7 +32,6 @@ description: JavaScript
 >  var object = {value:1};
 
 > var value = 2;
-
 > object.printProps = function(){
 
 >    var printValue = function(){
@@ -52,10 +51,9 @@ description: JavaScript
 >[/code]
 
 
-此时的运行结果是：
- 2
- 
- 1
+此时的运行结果是：  
+2   
+1
 
 在printValue()函数在执行时，this.value值为2，也就是说，this指向的是全局对象，而不是对象object。
 
@@ -73,8 +71,7 @@ description: JavaScript
 >function print(){
 >    console.log(this.value); 
 >  }
->  var value=1;
->  var object = {value:2};
+>  var value=1;>  var object = {value:2};
 >  object.m = print;
 >  //作为函数调用
 >  print();
@@ -82,7 +79,7 @@ description: JavaScript
 >  object.m();
 >[/code]
 运行结果为：
- 1
+1
  2
 
 当调用print时，this绑定的是全局对象，打印全局变量value值1。
@@ -116,10 +113,10 @@ description: JavaScript
 >console.log(obj.value);
 >[/code]
 
-运行结果：
- 1
- 2
- 3
+运行结果：  
+ 1  
+ 2  
+ 3  
  2
 
  I. 第一次调用fn()函数是作为构造函数调用的，此时调用上下文this被绑定到新创建的对象obj。所以全局变量value值不变，obj新增一个属性value，值为2；
@@ -127,10 +124,10 @@ description: JavaScript
 
 （3）构造函数通常不使用return关键字，返回值为新对象。而如果构造函数显示地使用return语句返回一个对象，那么调用表达式值就为这个对象。如果构造函数使用return语句但没有指定返回值或者返回一个原始值，则忽略返回值，同时使用新对象作为调用结果。
 
-#### 通过call()和apply()进行调用
+#### 通过call（）和apply（）进行调用
 
 虽然在一个独立的函数调用中，根据是否是strict模式，this指向undefined或window，不过，我们还是可以控制this的指向的！要指定函数的this指向哪个对象，可以用函数本身的apply()或call()方法，它们都是接收两个参数。
 
-call()方法使用它自有的实参列表作为函数的实参，apply()方法要求以数组的形式传入参数
+* call()方法使用它自有的实参列表作为函数的实参，apply()方法要求以数组的形式传入参数
 
-apply方法第一个参数是改变后的调用对象，第二个参数是将函数参数以数组形式传入[ ]，而call()第一个参数与call()方法相同，第二个参数是原来参数序列......。
+* apply方法第一个参数是改变后的调用对象，第二个参数是将函数参数以数组形式传入[ ]，而call()第一个参数与call()方法相同，第二个参数是原来参数序列......。
