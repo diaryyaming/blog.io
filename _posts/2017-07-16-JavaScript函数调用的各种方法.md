@@ -53,6 +53,8 @@ description: JavaScript
 > object.printProps();
 
 >[/code]
+
+
 # 此时的运行结果是：
  2
  
