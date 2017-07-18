@@ -14,7 +14,7 @@ description: JavaScript
 * [构造器调用](#3.构造器调用)  
 * [通过call()和apply()进行调用](#4.通过call()和apply()进行调用)
 
-<p><a name="基本函数调用"></a></p>  
+#### 基本函数调用
 
 #普通函数调用模式，如：
 
