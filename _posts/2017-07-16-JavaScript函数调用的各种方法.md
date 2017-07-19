@@ -25,18 +25,19 @@ description: JavaScript
 在基本函数调用中，
 * 1.每个参数作为实参传递给声明函数时定义的形参；  
 * 2.this被绑定到全局变量（直接调用一般指的是window)  
-''' java
-    var object = {value:1};    
+
+    var object = {value:1};   
     var value = 2;  
     object.printProps = function(){  
     var printValue = function(){  
+    
     console.log(this.value);  
     };  
     printValue();  
     console.log(this.value);  
     }  
-    object.printProps(); 
-'''
+    object.printProps();  
+    
 此时的运行结果是：  
 2   
 1
@@ -52,18 +53,18 @@ description: JavaScript
 
 当一个函数被保存为对象的一个属性时，称为方法。
 （1）参数和返回值的处理与函数调用一致；
-（2）调用上下文this为该对象
->[code=javascript] 
->function print(){
->    console.log(this.value); 
->  }
->  var value=1;>  var object = {value:2};
->  object.m = print;
->  //作为函数调用
->  print();
->  //作为方法调用
->  object.m();
->[/code]
+（2）调用上下文this为该对象  
+
+    function print(){
+    console.log(this.value); 
+    }
+    var value=1;>  var object = {value:2};
+    object.m = print;
+    //作为函数调用
+    print();
+    //作为方法调用
+    object.m();
+    
 运行结果为：
 
  2
@@ -73,32 +74,31 @@ description: JavaScript
 
 #### 构造器调用
 
- 函数或方法调用之前带有关键字new，它就构成构造函数调用。如：
->[code=javascript]
-> function fn(){……}
-> var obj = new fn();
->[/code]
+函数或方法调用之前带有关键字new，它就构成构造函数调用。如：  
+
+    function fn(){……}
+    var obj = new fn();  
+    
 （1）参数处理：一般情况构造器参数处理和函数调用模式一致。但如果构造函数没用形参，JavaScript构造函数调用语法是允许省略实参列表和圆括号的。
 
-如：下面两行代码是等价的。
->[code=javascript]
->  var obj = new Object();
->  var obj = new Object;
->[/code]
-（2）函数的调用上下文为新创建的对象。
->[code=javascript]
-> function fn(value){
->   this.value =value;
-> }
-> var value =1;
-> var obj = new fn(2);
-> console.log(value);
-> console.log(obj.value);
->fn(3);
->console.log(value);
->console.log(obj.value);
->[/code]
+如：下面两行代码是等价的。  
 
+    var obj = new Object();
+    var obj = new Object;  
+    
+（2）函数的调用上下文为新创建的对象。  
+
+    function fn(value){
+    this.value =value;
+    }
+    var value =1;
+    var obj = new fn(2);
+    console.log(value);
+    console.log(obj.value);
+    fn(3);
+    console.log(value);
+    console.log(obj.value);  
+    
 运行结果：  
  1  
  2  
