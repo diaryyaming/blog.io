@@ -17,7 +17,7 @@ description: JavaScript
 #### 基本函数调用  
 普通函数调用模式，如：
 
-'''JavaScript
+''' JavaScript
     function fn(o){
     …… 
     }
