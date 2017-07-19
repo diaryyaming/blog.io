@@ -25,27 +25,17 @@ description: JavaScript
 在基本函数调用中，
 * 1.每个参数作为实参传递给声明函数时定义的形参；  
 * 2.this被绑定到全局变量（直接调用一般指的是window）  
-
+  
     var object = {value:1};    
-    var value = 2;
-    object.printProps = function(){
-
->    var printValue = function(){
-
->      console.log(this.value);
-
->    };
-
->   printValue();
-
->   console.log(this.value);
-
-> }
-
-> object.printProps();
-
->[/code]
-
+    var value = 2;  
+    object.printProps = function(){  
+    var printValue = function(){  
+    console.log(this.value);  
+    };  
+    printValue();  
+    console.log(this.value);  
+    }  
+    object.printProps();  
 
 此时的运行结果是：  
 2   
