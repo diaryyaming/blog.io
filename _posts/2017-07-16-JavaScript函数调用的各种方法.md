@@ -1,6 +1,5 @@
 ---
-layout: post
-title: JavaScript函数调用的各种方法
+layout: posttitle: JavaScript函数调用的各种方法
 date: 2017-7-16
 categories: blog
 tags: [JavaScript,函数,调用,函数调用]
@@ -22,20 +21,20 @@ description: JavaScript
     fn({x:1});  
     
 在基本函数调用中，
-* 1.每个参数作为实参传递给声明函数时定义的形参；  
-* 2.this被绑定到全局变量（直接调用一般指的是window)  
+1.每个参数作为实参传递给声明函数时定义的形参；  
+2.this被绑定到全局变量（直接调用一般指的是window)  
 
-    var object = {value:1};   
-    var value = 2;  
-    object.printProps = function(){  
-    var printValue = function(){  
-    console.log(this.value);  
-    };  
-    printValue();  
-    console.log(this.value);  
-    }  
-    object.printProps();  
-    
+    var object = {value:1};
+    var value = 2;
+    object.printProps = function(){
+    var printValue = function(){  
+    console.log(this.value);
+    };
+    printValue();
+    console.log(this.value);
+    }
+    object.printProps();
+    
 此时的运行结果是：  
 2   
 1
