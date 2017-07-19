@@ -17,23 +17,17 @@ description: JavaScript
 #### 基本函数调用  
 普通函数调用模式，如：
 
-'''JavaScript  
-function fn(o){  
-……   
-}  
-fn({x:1});  
-'''
+    function fn(o){  
+    ……   
+    }  
+    fn({x:1});  
 在基本函数调用中，
 * 1.每个参数作为实参传递给声明函数时定义的形参；  
 * 2.this被绑定到全局变量（直接调用一般指的是window）
 
->[code=javascript]
-
-
->  var object = {value:1};
-
-> var value = 2;
-> object.printProps = function(){
+    var object = {value:1};    
+    var value = 2;
+    object.printProps = function(){
 
 >    var printValue = function(){
 
