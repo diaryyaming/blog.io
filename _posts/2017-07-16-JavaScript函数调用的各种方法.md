@@ -17,8 +17,7 @@ description: JavaScript
 #### 基本函数调用  
 普通函数调用模式，如：
 
-    function fn(o){  
-    ……   
+    function fn(o){      ……   
     }  
     fn({x:1});  
     
@@ -30,7 +29,6 @@ description: JavaScript
     var value = 2;  
     object.printProps = function(){  
     var printValue = function(){  
-    
     console.log(this.value);  
     };  
     printValue();  
@@ -65,10 +63,8 @@ description: JavaScript
     //作为方法调用
     object.m();
     
-运行结果为：
-
- 2
-
+运行结果为：  
+ 2  
 当调用print时，this绑定的是全局对象，打印全局变量value值1。
 但是当调用object.m()时，this绑定的是方法m所属的对象Object，所以打印的值为Object.value，即2。
 
