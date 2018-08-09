@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "AMWAY"
-description: "向你推荐一些有用的文章或链接"
+description: "有用的文章或链接"
 header-img: "img/zhihu.jpg"
 ---
 
