@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "我 "
 header-img: "img/green.jpg"
 ---
 
 
 
-我是赵亚明。
+你猜我是谁。
 
 
 ###我的朋友们
