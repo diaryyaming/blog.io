@@ -18,11 +18,12 @@ header-img: "img/green.jpg"
 
 ###联系
 
+- [邮箱：ymzhao@mail.dlut.edu.cn]
 - [博客：www.zymer.cc](http://zymer.cc/)
 
-- [微博@赵亚明明明](http://weibo.com/u/5273122298)
+- [微博@扇贝打卡专用i](http://weibo.com/u/5273122298)
 
-- [bilibili:赵亚明明明](http://space.bilibili.com/21541127/#!/)
+- [bilibili:吟啸徐行i](http://space.bilibili.com/21541127/#!/)
 
 
 
