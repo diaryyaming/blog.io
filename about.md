@@ -23,7 +23,6 @@ header-img: "img/green.jpg"
 
 - [微博@扇贝打卡专用i](http://weibo.com/u/5273122298)
 
-- [bilibili:吟啸徐行i](http://space.bilibili.com/21541127/#!/)
 
 
 
