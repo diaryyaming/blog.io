@@ -13,7 +13,6 @@ header-img: "img/green.jpg"
 ###我的朋友们
 
 - [ycgambo の GitHub](http://www.notee.cc/)
-- [Cnfeat](http://cnfeat.com)
 
 
 ###联系
