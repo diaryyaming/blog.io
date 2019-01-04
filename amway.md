@@ -16,6 +16,10 @@ header-img: "img/zhihu.jpg"
 - [《如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程》](http://www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)
 
 
+###我的
+- [网易云音乐2018年度听歌报告](http://col.ink/c/year2018/zt2BW/?uid=BF8D3C2ED4FB69646BA4A96DDD64D047&full_screen=true&keep_status_bar=true&top_bar_bg_color=f9f9f9&status_bar_type=dark&userid=259559747)
+
+
 <center>
     <p><img src="http://wx2.sinaimg.cn/mw690/005PA203gy1fhl2jbw0b0j30k20k20vs.jpg" align="center"></p>
 </center>
