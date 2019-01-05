@@ -19,3 +19,4 @@ header-img: "img/orange.jpg"
   </li>
 {% endfor %}
 </ul>
+<img src="img/dolphin.gif" />
