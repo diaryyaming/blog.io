@@ -19,3 +19,4 @@ header-img: "img/orange.jpg"
   </li>
 {% endfor %}
 </ul>
+<image src=" https://github.com/diaryyaming/diaryyaming.github.io/blob/master/img/dolphin.gif">
