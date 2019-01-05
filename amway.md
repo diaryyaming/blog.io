@@ -18,8 +18,10 @@ header-img: "img/zhihu.jpg"
 #我的
 
 ##全国计算机等级考试
-  *大纲教材
+
+*大纲教材
 - [全国计算机等级考试大纲教材](http://ncre.neea.edu.cn/html1/category/1507/899-1.htm)
+
 *试题选登
 - [例：全国计等级考试三级笔试样卷网络技术](https://raw.githubusercontent.com/diaryyaming/diaryyaming.github.io/master/myfiles/全国计算机等级考试三级笔试样卷网络技术.docx)
 - [全国计算机等级考试其他试题选登](http://ncre.neea.edu.cn/html1/category/1507/848-1.htm)
