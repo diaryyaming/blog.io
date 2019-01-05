@@ -19,4 +19,7 @@ header-img: "img/orange.jpg"
   </li>
 {% endfor %}
 </ul>
-<img src="img/dolphin.gif" />
+
+<center>
+    <p><img src="http://wx2.sinaimg.cn/mw690/005PA203gy1fhl2jbw0b0j30k20k20vs.jpg" align="center"></p>
+</center>
