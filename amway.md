@@ -38,7 +38,7 @@ header-img: "img/zhihu.jpg"
 <script type="text/javascript" charset="utf-8" src="https://changyan.sohu.com/js/changyan.labs.https.js?appid=cyu13voFA"></script>
 
 <center>
-    <p><img src="http://wx2.sinaimg.cn/mw690/005PA203gy1fhl2jbw0b0j30k20k20vs.jpg" align="left"></p>
+    <p><img src="http://wx2.sinaimg.cn/mw690/005PA203gy1fhl2jbw0b0j30k20k20vs.jpg" align="right"></p>
 </center>
 
 
