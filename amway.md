@@ -7,7 +7,7 @@ header-img: "img/zhihu.jpg"
 
 
 
-# 推荐：
+#推荐：
 
 - [GitHub中的Markdown语法](https://www.cnblogs.com/yabin/p/6366151.html)
 - [《管致中《信号与线性系统》考研考点精讲-付银娟》](http://www.bilibili.com/video/av8002313/)
