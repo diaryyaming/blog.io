@@ -18,7 +18,8 @@ header-img: "img/green.jpg"
 
 #### 联系我
 
-- [邮箱：ymzhao@mail.dlut.edu.cn]()
+- [邮箱：1123414767@qq.com](https://mail.qq.com/)
+
 - [博客：www.zymer.cc](http://zymer.cc/)
 
 - [微博@扇贝打卡专用i](http://weibo.com/u/5273122298)
