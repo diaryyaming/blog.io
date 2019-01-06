@@ -8,14 +8,15 @@ header-img: "img/green.jpg"
 
 
 你猜我是谁。
+#### 我的GitHub主页
+- [diaryyaming](https://github.com/diaryyaming)
 
-
-###我的朋友们
+#### 我的朋友们
 
 - [ycgambo の GitHub](http://www.notee.cc/)
 
 
-###联系
+#### 联系
 
 - [邮箱：ymzhao@mail.dlut.edu.cn]()
 - [博客：www.zymer.cc](http://zymer.cc/)
