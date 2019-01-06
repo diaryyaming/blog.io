@@ -29,7 +29,7 @@ header-img: "img/zhihu.jpg"
  
 
 
-
+<!--这段是畅言评论代码-->
 <!--PC和WAP自适应版-->
 <div id="SOHUCS" ></div> 
 <script type="text/javascript"> 
@@ -42,7 +42,7 @@ window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="tex
 
 
 <center>
-    <p><img src="http://wx2.sinaimg.cn/mw690/005PA203gy1fhl2jbw0b0j30k20k20vs.jpg" align="center"></p>
+    <p><img src="http://wx2.sinaimg.cn/mw690/005PA203gy1fhl2jbw0b0j30k20k20vs.jpg" align="center" width="200" height="200"></p>
 </center>
 
 
