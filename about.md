@@ -12,8 +12,8 @@ header-img: "img/green.jpg"
 - [diaryyaming](https://github.com/diaryyaming)
 
 #### 我的朋友们
-
-- [ycgambo の GitHub](http://www.notee.cc/)
+- [GitHub/ycgambo](https://github.com/ycgambo)
+- [ycgambo の blog](http://www.notee.cc/)
 
 
 #### 联系
