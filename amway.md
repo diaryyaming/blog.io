@@ -15,6 +15,8 @@ header-img: "img/zhihu.jpg"
 
 # 我的
 
+### 常用网址
+- [GitHub](https://github.com/diaryyaming)   [中国知网](http://www.cnki.net/)
 ### 全国计算机等级考试
 
 * 大纲教材
@@ -23,6 +25,7 @@ header-img: "img/zhihu.jpg"
 * 试题选登
   - [例：全国计等级考试三级笔试样卷网络技术](https://raw.githubusercontent.com/diaryyaming/diaryyaming.github.io/master/myfiles/全国计算机等级考试三级笔试样卷网络技术.docx)
   - [全国计算机等级考试其他试题选登](http://ncre.neea.edu.cn/html1/category/1507/848-1.htm)
+ 
 
 
 
