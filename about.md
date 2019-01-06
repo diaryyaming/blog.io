@@ -16,7 +16,7 @@ header-img: "img/green.jpg"
 - [ycgambo の blog](http://www.notee.cc/)
 
 
-#### 联系
+#### 联系我
 
 - [邮箱：ymzhao@mail.dlut.edu.cn]()
 - [博客：www.zymer.cc](http://zymer.cc/)
