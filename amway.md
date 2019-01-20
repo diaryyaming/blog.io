@@ -7,7 +7,7 @@ header-img: "img/zhihu.jpg"
 
 
 
-# 推荐：
+# 收藏
 
 - [今日冬至，夜与思念长](https://mp.weixin.qq.com/s/ALIz8maWpvzeWApxYGEsLw)
 - [今日大雪，愿与你共白头](https://mp.weixin.qq.com/s/rJLmgGFeYjxc_yQeHrKyAQ)
@@ -31,6 +31,10 @@ header-img: "img/zhihu.jpg"
 * 试题选登
   - [例：全国计等级考试三级笔试样卷网络技术](https://raw.githubusercontent.com/diaryyaming/diaryyaming.github.io/master/myfiles/全国计算机等级考试三级笔试样卷网络技术.docx)
   - [全国计算机等级考试其他试题选登](http://ncre.neea.edu.cn/html1/category/1507/848-1.htm)
+  
+  ### 教师资格证考试
+  
+  
  
 
 
